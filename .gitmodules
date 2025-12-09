@@ -1,0 +1,6 @@
+[submodule "part0_submission"]
+	path = part0_submission
+	url = https://github.com/joniniemela/part0_submission.git
+[submodule "part1_submission"]
+	path = part1_submission
+	url = https://github.com/joniniemela/part1_submission.git
