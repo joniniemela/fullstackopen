@@ -4,3 +4,33 @@
 [submodule "part1_submission"]
 	path = part1_submission
 	url = https://github.com/joniniemela/part1_submission.git
+[submodule "part2_submission"]
+	path = part2_submission
+	url = https://github.com/joniniemela/part2_submission.git
+[submodule "part3_submission"]
+	path = part3_submission
+	url = https://github.com/joniniemela/part3_submission.git
+[submodule "part4_submission"]
+	path = part4_submission
+	url = https://github.com/joniniemela/part4_submission.git
+[submodule "part5_submission"]
+	path = part5_submission
+	url = https://github.com/joniniemela/part5_submission.git
+[submodule "part6_submission"]
+	path = part6_submission
+	url = https://github.com/joniniemela/part6_submission.git
+[submodule "part7_submission"]
+	path = part7_submission
+	url = https://github.com/joniniemela/part7_submission.git
+[submodule "part8_submission"]
+	path = part8_submission
+	url = https://github.com/joniniemela/part8_submission.git
+[submodule "part9_submission"]
+	path = part9_submission
+	url = https://github.com/joniniemela/part9_submission.git
+[submodule "part11_submission"]
+	path = part11_submission
+	url = https://github.com/joniniemela/part11_submission.git
+[submodule "part6_exercises"]
+	path = part6_exercises
+	url = https://github.com/joniniemela/part6_exercises.git
